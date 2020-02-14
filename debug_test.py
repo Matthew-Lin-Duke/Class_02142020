@@ -7,6 +7,7 @@ def main():
     c = a * b
     pudb.set_trace()
     print_me(c)
+    print("test, test")
     return c
 
 
